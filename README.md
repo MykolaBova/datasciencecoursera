@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera ащк сщгкыукф сщгкыу
+datasciencecoursera for coursera course 
